@@ -1,1 +1,2 @@
-Git Tutorial By Krish Naik
+## Git Tutorial By Krish Naik
+## Please subscribe to my channel
